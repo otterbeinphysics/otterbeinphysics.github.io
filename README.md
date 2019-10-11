@@ -6,7 +6,7 @@ Current projects:
 
 - [Electric field lines](/fieldlines)
 - [EM wave animation](/em-wave-animation) and [Polarization animation](/em-wave-animation/polarizer.html)
-- [Simulation of scattered EM waves from atoms in an optical medium)(/opticalMediaGl)
+- [Simulation of scattered EM waves from atoms in an optical medium](/opticalMediaGl)
 
 
 Nathaniel Tagg 2019
